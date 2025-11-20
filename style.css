@@ -18,6 +18,14 @@ nav.navbar {
   font-size: 1.2rem;
   color: #ff9100;
   letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+}
+.nav-icon {
+  vertical-align: middle;
+  height: 28px;
+  width: 28px;
+  margin-right: 8px;
 }
 .logo .icon {
   color: #5a8dee;
