@@ -94,7 +94,7 @@ h1 {
   background: #fff;
   border: 2px solid #ff9100;
 }
-.btn-orange:hover, .btn-outline:hover { background: #5a8dee; color: #fff; border-color: #5a8dee; }
+.btn-orange:hover, .btn-outline:hover { background: #5a8dee; color: #fff; border-color: #5a8dee;}
 .content-section, .video-intro {
   background: #fff;
   border-radius: 22px;
