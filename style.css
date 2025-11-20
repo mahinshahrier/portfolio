@@ -173,6 +173,8 @@ h2 {
   font-weight: bold;
 }
 #video-intro video {
+  display: block;
+  margin: 0 auto;
   border-radius: 16px;
   box-shadow: 0 1px 12px #e0e0e0;
   background: #eef3fa;
