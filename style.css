@@ -16,10 +16,13 @@ nav.navbar {
 .logo {
   font-weight: bold;
   font-size: 1.2rem;
-  color: #ff9100;
+  color: #222; /* fallback for non-spanned text */
   letter-spacing: 1px;
   display: flex;
   align-items: center;
+}
+.logo-name {
+  color: #222; /* black */
 }
 .nav-icon {
   vertical-align: middle;
