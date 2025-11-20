@@ -16,23 +16,19 @@ nav.navbar {
 .logo {
   font-weight: bold;
   font-size: 1.2rem;
-  color: #222; /* fallback for non-spanned text */
+  color: #ff9100;
   letter-spacing: 1px;
   display: flex;
   align-items: center;
 }
 .logo-name {
-  color: #222; /* black */
+  color: #222;
 }
 .nav-icon {
   vertical-align: middle;
   height: 28px;
   width: 28px;
   margin-right: 8px;
-}
-.logo .icon {
-  color: #5a8dee;
-  margin-right: 4px;
 }
 nav.navbar ul {
   display: flex;
